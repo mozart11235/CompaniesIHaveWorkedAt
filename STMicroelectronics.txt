@@ -1,0 +1,19 @@
+STMicroelectronics was a great place in some ways,
+
+1. Work Life balance was the first priority for everybody.
+2. Everybody was slow and lazy so there was a lot of room to outshine
+   everybody without doing much. I missed to see this at the time.
+3. There was a lot of shitty stuff around, I could have improved a lot
+   of this and become a hero, but I missed this opportunity too.
+
+
+NOT such a great place in some ways,
+
+1. Too much inertia and unwillingness to adopt changes and the new. They had
+   the first dual core chipset solution and still did not capitalize on it.
+2. They stuck with Nokia even though Nokia adopted Windows and by extension
+   Microsoft and Microsoft wanted nothing to do with STMicro, they only wanted to
+   deal with Qualcomm. Emotional decisions I think, clinging to past
+   relationships.
+3. Absolutely no investment into buying the right tools, again I could have
+   used this an opportunity to be a hero by setting up tools for the team.

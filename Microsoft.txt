@@ -1,0 +1,19 @@
+Microsoft is a great place in a lot of ways,
+
+1. Personal offices, helps a lot with productivity and working with focus.
+2. Beautiful Campus, with lots of things to do.
+3. Provides very good work life balance.
+4. You will mostly find 3-5 people from your past acuaintances and friends working here.
+
+
+It is not such a great place in a lot of ways too
+
+1. Very few teams are actually doing really good work. A lot of it is just
+   regular stuff.
+2. Toxic culture, only the loudest mouth is rewarded, for some reasons PMs are
+   rewarded way too unfairly for very little contribution. 
+3. Most Dev leads know jackshit about management.
+4. With the new bi-annual release cycle as an engineer I am only producing new
+   work like 4 months a year, other 8 months my hands are tied due to check-in 
+   restrictions.
+
