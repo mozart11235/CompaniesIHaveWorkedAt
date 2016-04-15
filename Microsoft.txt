@@ -16,4 +16,6 @@ It is not such a great place in a lot of ways too
 4. With the new bi-annual release cycle as an engineer I am only producing new
    work like 4 months a year, other 8 months my hands are tied due to check-in 
    restrictions.
+5. At least two of my managers like to run the team like a Football team,
+   where there is a coach, the quarterback and the rest of the team. 
 
